@@ -1,0 +1,22 @@
+input {
+    padding: 7px;
+    height: 15px;
+    width: 400px;
+}
+
+button {
+    padding: 7px;
+    height: 40px;
+    margin: auto;
+}
+
+div {
+    margin-bottom: 10px;
+    width: 50%;
+
+}
+
+form {
+    margin: 0 auto;
+    width:400px;
+}
